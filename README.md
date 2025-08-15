@@ -117,6 +117,10 @@ Este proyecto está abierto a mejoras:
 
 Si quieres mejorar el proyecto, **haz un fork y envía pull requests**.
 
+> Codigos de colores para Panel LED:
+
+[Ir a codigos de colores](https://gist.github.com/Kongduino/36d152c81bbb1214a2128a2712ecdd18)
+
 ---
 
 ## Captura de pantalla (simulación)
